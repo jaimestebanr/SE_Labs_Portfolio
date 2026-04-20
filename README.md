@@ -4,8 +4,6 @@ This repository contains the work developed during the **Software Engineering** 
 
 The repository is organized to reflect the main analysis and design artifacts produced during the different laboratory sessions.
 
----
-
 ## Repository Structure
 
 ### 1. Lab2_UseCase_Diagrams
@@ -17,10 +15,8 @@ Main concepts covered in this lab:
 - Actors
 - Use cases
 - System boundary
-- <<include>>
-- <<extend>>
-
----
+- `<<include>>`
+- `<<extend>>`
 
 ### 2. Lab3_Class_Diagrams
 This folder contains the work produced for **Lab 3**, focused on **UML Class Diagrams**.
@@ -34,8 +30,6 @@ Main concepts covered in this lab:
 - Generalization
 - Aggregation and composition
 
----
-
 ### 3. Lab4_Behavioral_Diagrams
 This folder contains the deliverables for **Lab 4**, focused on **behavioral UML diagrams**.
 
@@ -45,8 +39,6 @@ This lab includes:
 - Activity Diagrams
 
 These diagrams were used to model interaction flows, state transitions, and process behavior in different systems, and also contributed to the behavioral modeling of the Gym Management System.
-
----
 
 ### 4. SRS
 The `SRS` folder contains the **Software Requirements Specification** for the **Gym Management System**, based on the IEEE 830 template.
@@ -63,8 +55,6 @@ This document includes:
 
 The SRS has been updated incrementally as new concepts and deliverables were introduced in the course laboratories.
 
----
-
 ### 5. project
 The `project` folder contains the project artifacts related to the **Gym Management System**.
 
@@ -77,8 +67,6 @@ Typical contents of this folder include:
 - Updated versions of system models
 
 This folder represents the practical evolution of the Gym Management System project.
-
----
 
 ## Main Project: Gym Management System
 
@@ -95,15 +83,11 @@ The system is designed to include functionalities such as:
 
 Throughout the course, the project has been progressively refined by applying software engineering techniques for requirements analysis, UML modeling, and structured documentation.
 
----
-
 ## Purpose of the Repository
 
 This repository serves as a structured record of the work developed in the course. It brings together both the laboratory assignments and the documentation of the Gym Management System project, showing how the system analysis and design evolved over time.
 
----
-
 ## Author
 
 **Jaime Esteban Reaño**  
-Software Engineering – IFE
+Software Engineering 
