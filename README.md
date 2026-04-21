@@ -4,9 +4,9 @@ This repository contains the work I have developed during the Software Engineeri
 
 The repository is organized to show the main analysis and design work produced in the different laboratory sessions.
 
-Repository structure
+## Repository structure
 
-1. Lab2_UseCase_Diagrams
+### Lab2_UseCase_Diagrams
 
 This folder contains the work done for Lab 2, focused on UML Use Case Diagrams.
 
@@ -16,10 +16,10 @@ Some of the main concepts worked on in this lab are:
 - actors
 - use cases
 - system boundary
-- <<include>>
-- <<extend>>
+- `<<include>>`
+- `<<extend>>`
 
-2. Lab3_Class_Diagrams
+### Lab3_Class_Diagrams
 
 This folder contains the work done for Lab 3, focused on UML Class Diagrams.
 
@@ -32,7 +32,7 @@ Some of the main concepts worked on in this lab are:
 - generalization
 - aggregation and composition
 
-3. Lab4_Behavioral_Diagrams
+### Lab4_Behavioral_Diagrams
 
 This folder contains the work done for Lab 4, focused on behavioral UML diagrams.
 
@@ -43,7 +43,7 @@ This lab includes:
 
 These diagrams were used to represent interaction flows, state changes, and process behavior. They also helped to model the dynamic behavior of the Gym Management System.
 
-4. SRS
+### SRS
 
 The SRS folder contains the Software Requirements Specification for the Gym Management System, based on the IEEE 830 template.
 
@@ -59,7 +59,7 @@ This document includes:
 
 The SRS has been updated progressively as new concepts and tasks were introduced in the course labs.
 
-5. project
+### project
 
 The project folder contains the project materials related to the Gym Management System.
 
@@ -73,7 +73,7 @@ Typical contents of this folder include:
 
 This folder shows the practical evolution of the Gym Management System project.
 
-Main project: Gym Management System
+## Main project: Gym Management System
 
 The main project documented in this repository is the Gym Management System, a software solution intended to support the daily management of a gym.
 
@@ -88,11 +88,11 @@ The system is designed to include functionalities such as:
 
 Throughout the course, the project has been progressively refined by applying software engineering techniques for requirements analysis, UML modeling, and documentation.
 
-Purpose of the repository
+## Purpose of the repository
 
 This repository serves as a structured record of the work developed in the course. It brings together the laboratory assignments and the documentation of the Gym Management System project, showing how the analysis and design evolved over time.
 
-Author
+## Author
 
-Jaime Esteban Reaño
+Jaime Esteban Reaño  
 Software Engineering
